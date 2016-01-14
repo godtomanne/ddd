@@ -56,3 +56,4 @@ if ( ! $product->is_purchasable() ) {
 	<?php do_action( 'woocommerce_after_add_to_cart_form' ); ?>
 
 <?php endif; ?>
+   
